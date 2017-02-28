@@ -47701,6 +47701,6 @@ angular.module('mm.core')
     "customurlscheme": "moodlemobile",
     "siteurl": "thithpt.com.vn",
     "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false"
+    "forcedefaultlanguage": "true"
 }
 );
